@@ -1,4 +1,4 @@
-pocket = int(input())
+pocket = int(input("Введите номер вашего кармана"))
 
 if pocket < 0 or pocket > 36:
     print("ошибка ввода")
